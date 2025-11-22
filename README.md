@@ -1,4 +1,4 @@
-<img width="1005" height="616" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/85311c0c-b7b7-48b8-8575-113f148d6aa0" /># Computer-Science-Fundamentals Assignment-4
+Computer-Science-Fundamentals Assignment-4
 Calculator (addition, subtraction, multiplication, division) – Python
 
 Project Description-
